@@ -3,9 +3,9 @@
 <template>
     <div>
         <div class="flex">
-            <img src="../assets/images/cell-no-back — копия.png" alt="" />
+            <img src="../assets/images/dead-cell.png" alt="" />
             <h1>ЖИВАЯ КЛЕТКА</h1>
-            <img src="../assets/images/cell-no-back.png" alt="" />
+            <img src="../assets/images/live-cell.png" alt="" />
         </div>
         <p>
             Игра «Жизнь» (англ. Game of Life) — клеточный автомат, придуманный
